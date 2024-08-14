@@ -1,3 +1,3 @@
 document.querySelector('div').addEventListener('click', function() {
-    alert('Hola! Soy el div');
+   if (click!=button) alert('Hola! Soy el div');
 });
